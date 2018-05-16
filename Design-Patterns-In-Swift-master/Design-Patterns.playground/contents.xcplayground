@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Behavioral'/>
+        <page name='Creational'/>
+        <page name='Structural'/>
+        <page name='lab8-1'/>
+        <page name='lab10-1'/>
+        <page name='lab10-2'/>
+        <page name='lab11-1'/>
+    </pages>
+</playground>
